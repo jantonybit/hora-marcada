@@ -1,0 +1,36 @@
+{
+  "name": "Hora Marcada — Gerenciador de Horários",
+  "short_name": "Hora Marcada",
+  "description": "Agenda, clientes, serviços, equipe e lista de espera para profissionais que atendem com hora marcada. Funciona offline e mantém os dados no seu dispositivo.",
+  "id": "./",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#f6f4fb",
+  "theme_color": "#7c3aed",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "medical"],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
